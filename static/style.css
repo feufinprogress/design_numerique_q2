@@ -1,0 +1,22 @@
+@font-face {
+  font-family: "Sono";
+  src: url(/static/fonts/SonoSans-Light.ttf);
+}
+
+body div.header {
+  font-family: "Sono";
+  font-size: 24px;
+  text-align: center;
+  width: auto;
+  text-decoration: underline;
+}
+
+div.main a {
+  font-family: "Sono"; 
+  font-size: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
